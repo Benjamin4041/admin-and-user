@@ -3,8 +3,9 @@
 import Btnpurple from "./Purplebuttons";
 import BtnGreen from "./Greenbuttons";
 import ProjectList from "./component/projectlist/ProjectList";
+import Scene from "./component/scene/Scene";
 function App() {
-  return <ProjectList />;
+  return <Scene />;
 }
 
 export default App;

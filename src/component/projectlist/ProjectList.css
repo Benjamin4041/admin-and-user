@@ -8,7 +8,7 @@
 /* tablet */
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .brandingMainCon {
-    background: url(""), #1e1e1e;
+    background: #1e1e1e;
   }
   .brandingMainCon_section1 {
     width: 100vw;
@@ -132,7 +132,6 @@
     right: 383px;
   }
   .brandingMainCon_section2 {
-    background-image: url("");
     position: relative;
   }
   .brandingMainCon_section2-innerCon {
@@ -224,7 +223,6 @@
     height: 100%;
     position: absolute;
     top: 0;
-    background-image: url("");
   }
   .textandTextFilte_Text-innerText {
     font-family: "Varela";
@@ -326,7 +324,7 @@
 /* Pc */
 @media screen and (min-width: 1024px) {
   .brandingMainCon {
-    background: url(""), #1e1e1e;
+    background: #1e1e1e;
   }
   .brandingMainCon_section1 {
     width: 100vw;
@@ -537,7 +535,6 @@
     height: 100%;
     position: absolute;
     top: 0;
-    background-image: url("");
   }
   .textandTextFilte_Text-innerText {
     font-family: "Varela";
